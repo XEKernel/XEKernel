@@ -19,12 +19,26 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
-### 前端
+### .NET 桌面 & Web 开发
+![WPF](https://img.shields.io/badge/-WPF-5C2D91?logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/-WinForms-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=dotnet&logoColor=white)
+
+> 熟悉 C# + .NET 生态，能用 WPF / WinForms 构建桌面应用，或用 ASP.NET 开发 Web API。
+
+### C++ 图形界面框架
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
+
+> 习惯使用 Qt 开发跨平台桌面应用，熟悉信号槽、QWidget 与 QML 基础。
+
+### 前端（原生三件套）
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+> 不依赖框架，写纯粹的 HTML/CSS/JS
 
 ### 后端 / 运行时
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -34,16 +48,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white)
 
 ---
 
 ## 📚 正在做什么
 
 - 🔭 **备战 2027 高考**：主攻数学 / 物理 / 英语，计划冲刺理想大学（计算机相关专业）。
-- 🌱 **保持编程手感**：每天 30–60 分钟写点小项目或刷算法（LeetCode / 洛谷）。
-- 🚧 **正在构建**：一个个人学习仪表盘（Express + React + 本地数据库），用来管理复习计划。
-- 📖 **正在读**：《算法竞赛入门经典》《Node.js 设计模式》。
-
+- 🌱 **保持编程手感**：每天 30–60 分钟写点小项目。
 ---
 
 ## ✨ 一些小目标
@@ -59,7 +71,7 @@
 
 - 📧 邮箱：XEK20090428@163.com
 - 💬 可以在 GitHub Issues 里直接@我，有空必回。
-- 🌐 个人博客：[个人博客](https://xekernel.github.io/)
+- 🌐 个人博客：[xekernel.github.io](https://xekernel.github.io/)
 
 ---
 
