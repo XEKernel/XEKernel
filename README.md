@@ -80,8 +80,8 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XEKernel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&locale=cn" alt="XEKernel 的 GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEKernel&layout=compact&hide_border=true&hide=html&theme=transparent&langs_count=8&locale=cn" alt="XEKernel 最常用的编程语言" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=XEKernel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&locale=cn" alt="XEKernel 的 GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=XEKernel&layout=compact&hide_border=true&hide=html&theme=transparent&langs_count=8&locale=cn" alt="XEKernel 最常用的编程语言" />
 </p>
 ---
 
