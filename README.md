@@ -80,8 +80,8 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=XEKernel&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEKernel&layout=compact&hide_border=true&hide=html&theme=transparent" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SYSTEM-MEMZ-XEK&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYSTEM-MEMZ-XEK&layout=compact&hide_border=true&hide=html&theme=transparent" />
 </p>
 
 ---
