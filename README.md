@@ -136,4 +136,4 @@
 
 ## License
 
-本项目采用 [MIT License](LICENSE)。
+本仓库内容（README 等）采用 [MIT License](LICENSE)；各项目仓库的代码同样以 MIT 发布。
